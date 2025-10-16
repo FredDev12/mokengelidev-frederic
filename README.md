@@ -109,6 +109,7 @@ Note importante : Le CORS du serveur est configuré pour autoriser l'origine `ht
 - Remplacer le stockage en mémoire par une vraie base (SQLite/Postgres) et ajouter des migrations.
 - Ajouter des tests unitaires et d'intégration pour l'API et les composants.
 - Ajouter CI (lint, tests, build) et des scripts de déploiement.
+- Design responsive et respect du theme
 
 ## Ports utilisés
 
